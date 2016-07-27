@@ -1,4 +1,1 @@
-AAPL = Apple
-CZBS = CITIZENS BANCSHARES CORPORATION
-MFBP = M&F BANCORP
-BYFC = BROADWAY FEDERAL BANK
+This is just a test document to test subversion setup
